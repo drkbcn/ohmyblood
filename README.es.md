@@ -5,7 +5,7 @@
 **Un diario de presión arterial privado y sin conexión para Android.**
 Registra cada lectura, mira tu presión como una onda en directo y obtén previsiones y análisis calculados por completo en tu móvil.
 
-[![Última versión](https://img.shields.io/github/v/release/drkbcn/ohmyblood-releases?style=for-the-badge&color=E0475B&label=descargar)](https://github.com/drkbcn/ohmyblood-releases/releases/latest)
+[![Última versión](https://img.shields.io/github/v/release/drkbcn/ohmyblood?style=for-the-badge&color=E0475B&label=descargar)](https://github.com/drkbcn/ohmyblood/releases/latest)
 ![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-2FB67C?style=for-the-badge)
 ![8 idiomas](https://img.shields.io/badge/idiomas-8-5BB5D6?style=for-the-badge)
 ![Sin anuncios](https://img.shields.io/badge/anuncios-ninguno-F08A24?style=for-the-badge)
@@ -38,7 +38,7 @@ Las capturas están en inglés; la app sigue el idioma de tu móvil.
 
 ## Instalación
 
-1. Descarga el APK de la [última versión](https://github.com/drkbcn/ohmyblood-releases/releases/latest).
+1. Descarga el APK de la [última versión](https://github.com/drkbcn/ohmyblood/releases/latest).
 2. Ábrelo en tu móvil. Android te pedirá permitir instalar apps desde ese origen.
 3. Abre OhMyBlood y registra tu primera lectura.
 

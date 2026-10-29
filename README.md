@@ -5,7 +5,7 @@
 **A private, offline blood pressure diary for Android.**
 Log every reading, watch your pressure as a live waveform, and get forecasts and insights computed entirely on your phone.
 
-[![Latest release](https://img.shields.io/github/v/release/drkbcn/ohmyblood-releases?style=for-the-badge&color=E0475B&label=download)](https://github.com/drkbcn/ohmyblood-releases/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/drkbcn/ohmyblood?style=for-the-badge&color=E0475B&label=download)](https://github.com/drkbcn/ohmyblood/releases/latest)
 ![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-2FB67C?style=for-the-badge)
 ![8 languages](https://img.shields.io/badge/languages-8-5BB5D6?style=for-the-badge)
 ![No ads](https://img.shields.io/badge/ads-none-F08A24?style=for-the-badge)
@@ -80,7 +80,7 @@ The screenshots use sample data.
 
 ## Install
 
-1. Download the APK from the [latest release](https://github.com/drkbcn/ohmyblood-releases/releases/latest).
+1. Download the APK from the [latest release](https://github.com/drkbcn/ohmyblood/releases/latest).
 2. Open it on your phone. Android will ask you to allow installing apps from this source; accept for the browser or file manager you used.
 3. Open OhMyBlood and log your first reading.
 
